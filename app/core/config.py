@@ -14,7 +14,7 @@ class Settings(BaseSettings):
     # =============================
     # Application settings
     # =============================
-    APP_NAME: str = "FastAPI Hexagonal Architecture"
+    APP_NAME: str = "FastAPI Clean Architecture Template"
     DEBUG: bool = True
     API_V1_STR: str = "/api/v1"
 
